@@ -1,3 +1,5 @@
+git config --global user.email "email"
+git config --global user.name "name"
 git init -> if you did not clone 
 git clone "link"
 git status 
