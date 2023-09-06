@@ -1,0 +1,3 @@
+git init -> if you did not clone 
+git clone "link"
+git status 
