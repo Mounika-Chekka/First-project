@@ -5,5 +5,5 @@ git clone "link"
 git status 
 git add . 
 git commit 
-git push origit main
------
+git push origin main
+---------
